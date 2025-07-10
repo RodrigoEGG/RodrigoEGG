@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer from 🇲🇽</h3>
 
 ![](https://komarev.com/ghpvc/?username=rodEgg&color=red)
-- 👨‍💻 Currently working on a System Computational for Monitoring and Analysis of Forest Ecosystems
-- 🌱 I’m currently learning **predictive analytics models, AI and cross-platform system integration**
+- 👨‍💻 Currently working at Microsoft Finance and Data Experience Department
+- 🌱 I graduated with honors and received a special distinction for my thesis!!
 - 📬 You can reach me at rodrigoeguiluzod@gmail.com
 - ✏️ My hobbies include Poetry, Drumming, DJ, Writing, Photography, Cooking ,Making Pinterest Boards
 
